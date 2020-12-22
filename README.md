@@ -9,5 +9,10 @@
 ## Build
 
 + Container build and run
++ Docker
 
 ## Usage
+
+```
+$ docker build -f ./docker/Dockerfile -t nlg .
+```
