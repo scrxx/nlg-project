@@ -3,6 +3,8 @@
 ## Index
 
 + Natural Language Generation
++ Binary Classification
++ Category Classification
 
 ## Build
 
